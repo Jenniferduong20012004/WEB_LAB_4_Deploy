@@ -1,0 +1,51 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.indie-font {
+    font-family: 'Indie Flower', cursive;
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.theme-switch {
+    cursor: pointer;
+}
+
+.hero {
+    padding: 50px 0;
+}
+.project-item, .course-item {
+    padding: 5px 0;
+}
+
+.project-item:last-child, .course-item:last-child {
+    border-bottom: none;
+}
+.container{
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.review-card {
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.reviewer-name {
+    font-size: 0.9rem;
+}
+footer {
+    padding: 20px 0;
+}
+
+footer a {
+    font-size: 1.2rem;
+}
